@@ -3,109 +3,52 @@
 </p>
 
 <p align="center">
-  <strong>从细胞、序列和代码中，理解生命的变化。</strong><br>
-  <sub>单细胞分析 &nbsp; / &nbsp; 免疫受体组库 &nbsp; / &nbsp; 可复现科研</sub>
-</p>
-
-<p align="center">
   <a href="https://scholar.google.com/citations?user=0kLA6Z0AAAAJ&amp;hl=zh-CN">Google Scholar</a>
-  &nbsp; · &nbsp;
-  <a href="#精选项目">精选项目</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/thekingofall?tab=repositories">全部仓库</a>
-  &nbsp; · &nbsp;
-  <a href="README.md">English</a>
+  &nbsp; · &nbsp; <a href="#论文与分析代码">研究代码</a>
+  &nbsp; · &nbsp; <a href="#生信工具">生信工具</a>
+  &nbsp; · &nbsp; <a href="#数据下载与流程">数据与流程</a>
+  &nbsp; · &nbsp; <a href="README.md">English</a>
 </p>
 
-<br>
+## 你好，我是 Lipeng 👋
 
-## 关于我
+我关注**计算生物学与生物信息学**，希望理解细胞和免疫受体组库如何随着发育、衰老与疾病发生变化。这里的项目围绕单细胞分析、T 细胞生物学和实用科研软件展开。
 
-<table>
-<tr>
-<td width="72%" valign="top">
+我日常使用 **R、Python 和 Linux** 分析测序数据、组织工作流程，也喜欢把生物学发现画成清楚易读的图。分享有用的代码、学习新方法，以及把反复遇到的研究任务整理成顺手的工具，都是我持续投入的事。
 
-### 你好，我是 Lipeng。
+## 论文与分析代码
 
-我关注**计算生物学、免疫学与科研软件**的交叉问题，尤其希望理解细胞状态和免疫受体组库如何随着发育、衰老与疾病发生变化。
+| 项目 | 可以找到什么 |
+| :--- | :--- |
+| [**人类胎儿血液免疫图谱**](https://github.com/thekingofall/scFetallife_Blood) | 研究人类血液免疫系统发育的分析代码与绘图数据。 |
 
-这里汇集了我的测序分析代码、绘图资料和实用工具。我希望研究过程能够被清楚地理解，也能在之后重新运行、继续改进。
+[在 Google Scholar 查看研究与论文 ↗](https://scholar.google.com/citations?user=0kLA6Z0AAAAJ&hl=zh-CN)
 
-我喜欢把一个生物学问题拆解成清楚的分析，再把分析中有用的代码整理成别人也能使用的工具。
+## 生信工具
 
-</td>
-<td width="28%" align="center" valign="middle">
-<img src="assets/cellular-world.png" width="230" alt="透明细胞与分子连接的概念插画。">
-</td>
-</tr>
-</table>
+| 工具 | 解决什么问题 |
+| :--- | :--- |
+| [**Biosoft · Bioseq**](https://github.com/thekingofall/Biosoft-Bioseq) | 按 barcode 拆分 BAM、统计 FASTQ 目标序列，以及提取基因和启动子序列。 |
+| [**Biosoft · MiXCR Python**](https://github.com/thekingofall/Biosoft-Project-MiXCR-Python) | 面向研究的人类 V(D)J 分析 Python 实现，附中英文说明和可复现测试。 |
+| [**TCRfuzzy**](https://github.com/thekingofall/TCRfuzzy) | 比较 TCR 序列相似度，提供基础处理和批处理脚本。 |
 
-## 关注方向
+## 数据下载与流程
 
-| **01 · 细胞与状态** | **02 · 免疫与时间** | **03 · 代码与发现** |
-| :--- | :--- | :--- |
-| 单细胞转录组、细胞图谱与细胞异质性。 | T 细胞生物学、免疫受体组库及生命周期中的变化。 | 序列处理、可复现分析流程与 AI 辅助科研。 |
+| 项目 | 解决什么问题 |
+| :--- | :--- |
+| [**Biosoft · Download**](https://github.com/thekingofall/Biosoft-Download-upanddown) | 从 ENA/Aspera、诺禾云和 Synapse 获取科研数据。 |
+| [**RNA-seq pipeline**](https://github.com/thekingofall/rnaseq-pipeline) | 按模块组织 RNA-seq 质控、比对、定量和报告流程。 |
+| [**scHICtools**](https://github.com/thekingofall/scHICtools) | 通过 HiC-Pro 组织单细胞 Hi-C 数据处理的 Python 工具。 |
 
-## 精选项目
+[浏览全部仓库 ↗](https://github.com/thekingofall?tab=repositories)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 代码之外
 
-### [Biosoft · Bioseq](https://github.com/thekingofall/Biosoft-Bioseq)
-
-按 barcode 拆分 BAM、统计 FASTQ 目标序列，以及提取基因和启动子序列的工具集。
-
-**序列分析** &nbsp; · &nbsp; Python / Shell
-
-</td>
-<td width="50%" valign="top">
-
-### [Biosoft · MiXCR Python](https://github.com/thekingofall/Biosoft-Project-MiXCR-Python)
-
-面向研究的人类 V(D)J 分析 Python 实现，附中英文使用说明和可复现测试。
-
-**免疫受体组库** &nbsp; · &nbsp; Python
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [人类胎儿血液免疫图谱](https://github.com/thekingofall/scFetallife_Blood)
-
-研究人类血液免疫系统发育的分析代码与绘图数据。
-
-**单细胞生物学** &nbsp; · &nbsp; 分析与可视化
-
-</td>
-<td width="50%" valign="top">
-
-### [Biosoft · Download](https://github.com/thekingofall/Biosoft-Download-upanddown)
-
-整合 ENA/Aspera、诺禾云和 Synapse 的科研数据下载工具。
-
-**科研流程** &nbsp; · &nbsp; 数据获取
-
-</td>
-</tr>
-</table>
-
-## 日常工具
-
-用 **R 与 Python** 做分析和绘图，用 **Linux 与 Shell** 组织数据流程，用 **Git** 保留代码的变化。
-
-我重视明确的问题、读得懂的方法，以及能把生物学发现讲清楚的图。证据、代码和解释应当彼此对应。
-
-## 工作之外
-
-喜欢科学插画、阅读和打磨顺手的小工具，也享受好奇心与视觉设计相遇的过程。
+喜欢科学插画、阅读和能让日常工作更顺手的小工具。也喜欢清楚的问题、用心挑选的配色，以及复杂结果终于变得容易理解的那一刻。
 
 ---
 
 <p align="center">
-  <em>好问题，清楚的证据，有用的代码。</em><br><br>
-  <a href="https://scholar.google.com/citations?user=0kLA6Z0AAAAJ&amp;hl=zh-CN">研究与论文 ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/thekingofall?tab=repositories">浏览代码 ↗</a>
+  <sub>Cells · Sequences · Systems</sub><br>
+  <em>好问题，清楚的证据，有用的代码。</em>
 </p>

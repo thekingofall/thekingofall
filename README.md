@@ -1,111 +1,54 @@
 <p align="center">
-  <img src="assets/research-banner.png" width="100%" alt="Lipeng Mao — Computational Biology. Cells, sequences and systems, illustrated in midnight blue and teal.">
-</p>
-
-<p align="center">
-  <strong>Exploring biology through cells, sequences and code.</strong><br>
-  <sub>Single-cell analysis &nbsp; / &nbsp; Immune repertoires &nbsp; / &nbsp; Reproducible research</sub>
+  <img src="assets/research-banner.png" width="100%" alt="Lipeng Mao — Computational Biology. Cells, sequences and systems.">
 </p>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=0kLA6Z0AAAAJ&amp;hl=en">Google Scholar</a>
-  &nbsp; · &nbsp;
-  <a href="#selected-projects">Selected projects</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/thekingofall?tab=repositories">All repositories</a>
-  &nbsp; · &nbsp;
-  <a href="README.zh-CN.md">中文介绍</a>
+  &nbsp; · &nbsp; <a href="#research--analysis-code">Research code</a>
+  &nbsp; · &nbsp; <a href="#bioinformatics-tools">Tools</a>
+  &nbsp; · &nbsp; <a href="#data--workflows">Workflows</a>
+  &nbsp; · &nbsp; <a href="README.zh-CN.md">中文</a>
 </p>
 
-<br>
+## Hi, I'm Lipeng 👋
 
-## About
+I work on **computational biology and bioinformatics**, with an interest in how cells and immune repertoires change across development, aging and disease. My projects bring together single-cell analysis, T-cell biology and practical research software.
 
-<table>
-<tr>
-<td width="72%" valign="top">
+I use **R, Python and Linux** to explore sequencing data, build analysis workflows and make figures that explain the biology. I enjoy sharing useful code, learning new methods and turning a recurring research task into a tool that is easier to use.
 
-### Hi, I'm Lipeng.
+## Research & analysis code
 
-I work at the intersection of **computational biology, immunology and research software**. I am interested in how cell states and immune repertoires change across development, aging and disease.
+| Project | What you'll find |
+| :--- | :--- |
+| [**Human fetal blood atlas**](https://github.com/thekingofall/scFetallife_Blood) | Analysis code and figure data for the developing human blood immune system. |
 
-My projects bring together sequencing analysis, interpretable figures and practical tools that make research easier to revisit and build on.
+[Research and publications on Google Scholar ↗](https://scholar.google.com/citations?user=0kLA6Z0AAAAJ&hl=en)
 
-I enjoy turning a biological question into a clear analysis—and turning useful analysis code into something others can use.
+## Bioinformatics tools
 
-</td>
-<td width="28%" align="center" valign="middle">
-<img src="assets/cellular-world.png" width="230" alt="Conceptual illustration of a translucent cell and molecular connections.">
-</td>
-</tr>
-</table>
+| Tool | What it does |
+| :--- | :--- |
+| [**Biosoft · Bioseq**](https://github.com/thekingofall/Biosoft-Bioseq) | BAM barcode splitting, FASTQ motif counts, and gene or promoter extraction. |
+| [**Biosoft · MiXCR Python**](https://github.com/thekingofall/Biosoft-Project-MiXCR-Python) | Research Python implementation of human V(D)J analysis, with bilingual guides and reproducible tests. |
+| [**TCRfuzzy**](https://github.com/thekingofall/TCRfuzzy) | TCR sequence similarity comparison, with single-run and batch scripts. |
 
-## Research interests
+## Data & workflows
 
-| **01 · Cells & states** | **02 · Immunity & time** | **03 · Code & discovery** |
-| :--- | :--- | :--- |
-| Single-cell transcriptomics, cell atlases and heterogeneity. | T-cell biology, immune repertoires and changes across the lifespan. | Sequence processing, reproducible workflows and AI-assisted research. |
+| Project | What it does |
+| :--- | :--- |
+| [**Biosoft · Download**](https://github.com/thekingofall/Biosoft-Download-upanddown) | Research data acquisition from ENA/Aspera, Novogene and Synapse. |
+| [**RNA-seq pipeline**](https://github.com/thekingofall/rnaseq-pipeline) | Modular RNA-seq workflow covering quality control, alignment, quantification and reporting. |
+| [**scHICtools**](https://github.com/thekingofall/scHICtools) | Python tools for running single-cell Hi-C processing through HiC-Pro. |
 
-## Selected projects
+[Browse all repositories ↗](https://github.com/thekingofall?tab=repositories)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## A little beyond the code
 
-### [Biosoft · Bioseq](https://github.com/thekingofall/Biosoft-Bioseq)
-
-A collection of tools for BAM barcode splitting, FASTQ motif counting, and gene or promoter extraction.
-
-**Sequence analysis** &nbsp; · &nbsp; Python / Shell
-
-</td>
-<td width="50%" valign="top">
-
-### [Biosoft · MiXCR Python](https://github.com/thekingofall/Biosoft-Project-MiXCR-Python)
-
-A research Python implementation of human V(D)J analysis, with bilingual guides and reproducible tests.
-
-**Immune repertoires** &nbsp; · &nbsp; Python
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Human fetal blood atlas](https://github.com/thekingofall/scFetallife_Blood)
-
-Analysis code and figure data for studying the developing human blood immune system.
-
-**Single-cell biology** &nbsp; · &nbsp; Analysis & visualization
-
-</td>
-<td width="50%" valign="top">
-
-### [Biosoft · Download](https://github.com/thekingofall/Biosoft-Download-upanddown)
-
-Tools for acquiring research data from ENA/Aspera, Novogene and Synapse.
-
-**Research workflows** &nbsp; · &nbsp; Data acquisition
-
-</td>
-</tr>
-</table>
-
-## At the workbench
-
-**R & Python** for analysis and figures · **Linux & Shell** for data workflows · **Git** for traceable code.
-
-I value a focused question, readable methods and figures that make the biological story easier to understand. My approach is to keep the evidence, the code and the explanation close together.
-
-## Beyond the workbench
-
-Scientific illustration, thoughtful reading and the pleasure of a well-made tool. I like the space where curiosity meets visual craft.
+Scientific illustration, thoughtful reading and small tools that make everyday work smoother. I like clear questions, carefully chosen colors and the moment when a complicated result starts to make sense.
 
 ---
 
 <p align="center">
-  <em>Good questions. Clear evidence. Useful code.</em><br><br>
-  <a href="https://scholar.google.com/citations?user=0kLA6Z0AAAAJ&amp;hl=en">Research & publications ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/thekingofall?tab=repositories">Explore the code ↗</a>
+  <sub>Cells · Sequences · Systems</sub><br>
+  <em>Good questions. Clear evidence. Useful code.</em>
 </p>
