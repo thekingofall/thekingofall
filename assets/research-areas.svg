@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="120" viewBox="0 0 1120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Research interests</title>
+  <desc id="desc">AI for biology, aging and immunity, single-cell and multi-omics, and research software.</desc>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect width="271" height="120" rx="8" fill="#153F43"/>
+    <text x="22" y="33" fill="#B8D4CE" font-size="14" letter-spacing="2">01 / INTELLIGENCE</text>
+    <text x="22" y="68" fill="#FFFFFF" font-size="25" font-weight="700">AI for Biology</text>
+    <text x="22" y="96" fill="#D4E5E0" font-size="16">Learning from biological data</text>
+    <rect x="283" width="271" height="120" rx="8" fill="#EAE1D3"/>
+    <text x="305" y="33" fill="#75614D" font-size="14" letter-spacing="2">02 / BIOLOGICAL TIME</text>
+    <text x="305" y="68" fill="#403B32" font-size="25" font-weight="700">Aging &amp; Immunity</text>
+    <text x="305" y="96" fill="#625748" font-size="16">Changes across the lifespan</text>
+    <rect x="566" width="271" height="120" rx="8" fill="#DFEAE4"/>
+    <text x="588" y="33" fill="#46675B" font-size="14" letter-spacing="2">03 / MOLECULAR SYSTEMS</text>
+    <text x="588" y="68" fill="#23483C" font-size="25" font-weight="700">Single-cell &amp; Omics</text>
+    <text x="588" y="96" fill="#46675B" font-size="16">Connecting molecular layers</text>
+    <rect x="849" width="271" height="120" rx="8" fill="#EEE1D9"/>
+    <text x="871" y="33" fill="#805D4C" font-size="14" letter-spacing="2">04 / REPRODUCIBILITY</text>
+    <text x="871" y="68" fill="#644332" font-size="25" font-weight="700">Research Software</text>
+    <text x="871" y="96" fill="#805D4C" font-size="16">Useful tools, clear workflows</text>
+  </g>
+</svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/research-banner.png" width="100%" alt="Lipeng Mao — Computational Biology. Cells, sequences and systems.">
+  <img src="assets/research-banner.png" width="100%" alt="Lipeng Mao — AI, Aging and Omics. Computational Biology.">
 </p>
 
 <p align="center">
@@ -12,9 +12,13 @@
 
 ## Hi, I'm Lipeng 👋
 
-I work on **computational biology and bioinformatics**, with an interest in how cells and immune repertoires change across development, aging and disease. My projects bring together single-cell analysis, T-cell biology and practical research software.
+My interests sit at the intersection of **artificial intelligence, aging biology and omics**. I am interested in using computational methods to understand how biological systems change over time, and how molecular data can help us ask better questions about health and disease.
 
-I use **R, Python and Linux** to explore sequencing data, build analysis workflows and make figures that explain the biology. I enjoy sharing useful code, learning new methods and turning a recurring research task into a tool that is easier to use.
+<p align="center">
+  <img src="assets/research-areas.svg" width="100%" alt="Research interests: AI for biology; aging and immunity; single-cell and multi-omics; research software.">
+</p>
+
+My focus includes **AI for biological data**, **aging and immune-system changes**, and **single-cell and multi-omics analysis**. Alongside these questions, I build **research tools and reproducible workflows** with R, Python and Linux, from sequencing data processing to clear scientific figures.
 
 ## Research & analysis code
 
@@ -49,6 +53,6 @@ Scientific illustration, thoughtful reading and small tools that make everyday w
 ---
 
 <p align="center">
-  <sub>Cells · Sequences · Systems</sub><br>
+  <sub>AI · Aging · Omics</sub><br>
   <em>Good questions. Clear evidence. Useful code.</em>
 </p>

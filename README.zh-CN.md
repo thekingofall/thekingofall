@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/research-banner.png" width="100%" alt="Lipeng Mao — Computational Biology，细胞、序列与系统。">
+  <img src="assets/research-banner.png" width="100%" alt="Lipeng Mao — 人工智能、衰老与组学，计算生物学。">
 </p>
 
 <p align="center">
@@ -12,9 +12,13 @@
 
 ## 你好，我是 Lipeng 👋
 
-我关注**计算生物学与生物信息学**，希望理解细胞和免疫受体组库如何随着发育、衰老与疾病发生变化。这里的项目围绕单细胞分析、T 细胞生物学和实用科研软件展开。
+我关注**人工智能、衰老生物学与组学的交叉研究**，希望借助计算方法理解生命系统如何随时间发生变化，以及如何从分子数据中提出关于健康与疾病的好问题。
 
-我日常使用 **R、Python 和 Linux** 分析测序数据、组织工作流程，也喜欢把生物学发现画成清楚易读的图。分享有用的代码、学习新方法，以及把反复遇到的研究任务整理成顺手的工具，都是我持续投入的事。
+<p align="center">
+  <img src="assets/research-areas.svg" width="100%" alt="研究兴趣：AI 与计算生物学、衰老与免疫、单细胞与多组学、科研工具与可复现分析。">
+</p>
+
+具体兴趣包括 **AI 在生物数据中的应用**、**衰老与免疫系统变化**，以及**单细胞与多组学分析**。我也使用 R、Python 和 Linux 开发**科研工具与可复现流程**，把测序数据处理、分析与科学绘图衔接起来。
 
 ## 论文与分析代码
 
@@ -49,6 +53,6 @@
 ---
 
 <p align="center">
-  <sub>Cells · Sequences · Systems</sub><br>
+  <sub>AI · Aging · Omics</sub><br>
   <em>好问题，清楚的证据，有用的代码。</em>
 </p>
