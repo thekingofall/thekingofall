@@ -34,15 +34,13 @@
 | :--- | :--- |
 | [**Biosoft · Bioseq**](https://github.com/thekingofall/Biosoft-Bioseq) | 按 barcode 拆分 BAM、统计 FASTQ 目标序列，以及提取基因和启动子序列。 |
 | [**Biosoft · MiXCR Python**](https://github.com/thekingofall/Biosoft-Project-MiXCR-Python) | 面向研究的人类 V(D)J 分析 Python 实现，附中英文说明和可复现测试。 |
-| [**TCRfuzzy**](https://github.com/thekingofall/TCRfuzzy) | 比较 TCR 序列相似度，提供基础处理和批处理脚本。 |
 
 ## 数据下载与流程
 
 | 项目 | 解决什么问题 |
 | :--- | :--- |
 | [**Biosoft · Download**](https://github.com/thekingofall/Biosoft-Download-upanddown) | 从 ENA/Aspera、诺禾云和 Synapse 获取科研数据。 |
-| [**RNA-seq pipeline**](https://github.com/thekingofall/rnaseq-pipeline) | 按模块组织 RNA-seq 质控、比对、定量和报告流程。 |
-| [**scHICtools**](https://github.com/thekingofall/scHICtools) | 通过 HiC-Pro 组织单细胞 Hi-C 数据处理的 Python 工具。 |
+| [**Biosoft · Codex Science**](https://github.com/thekingofall/Biosoft-Project-Codex-Science) | 科学数据工具、可复现工作流与 Codex MCP 适配器。 |
 
 [浏览全部仓库 ↗](https://github.com/thekingofall?tab=repositories)
 

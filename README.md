@@ -34,15 +34,13 @@ My focus includes **AI for biological data**, **aging and immune-system changes*
 | :--- | :--- |
 | [**Biosoft · Bioseq**](https://github.com/thekingofall/Biosoft-Bioseq) | BAM barcode splitting, FASTQ motif counts, and gene or promoter extraction. |
 | [**Biosoft · MiXCR Python**](https://github.com/thekingofall/Biosoft-Project-MiXCR-Python) | Research Python implementation of human V(D)J analysis, with bilingual guides and reproducible tests. |
-| [**TCRfuzzy**](https://github.com/thekingofall/TCRfuzzy) | TCR sequence similarity comparison, with single-run and batch scripts. |
 
 ## Data & workflows
 
 | Project | What it does |
 | :--- | :--- |
 | [**Biosoft · Download**](https://github.com/thekingofall/Biosoft-Download-upanddown) | Research data acquisition from ENA/Aspera, Novogene and Synapse. |
-| [**RNA-seq pipeline**](https://github.com/thekingofall/rnaseq-pipeline) | Modular RNA-seq workflow covering quality control, alignment, quantification and reporting. |
-| [**scHICtools**](https://github.com/thekingofall/scHICtools) | Python tools for running single-cell Hi-C processing through HiC-Pro. |
+| [**Biosoft · Codex Science**](https://github.com/thekingofall/Biosoft-Project-Codex-Science) | Scientific data tools, reproducible workflows and an MCP adapter for Codex. |
 
 [Browse all repositories ↗](https://github.com/thekingofall?tab=repositories)
 
